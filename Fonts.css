@@ -1,12 +1,12 @@
-body{
-    font-family: Arial, Helvetica, sans-serif;
+ body {
+  font-family: 'Montserrat', sans-serif;
 }
-#Main-Class{
-    color: bisque;
+.bg-light{
+    background-color: rgb(231, 226, 226);
 }
-#Main-Class2{
-    color: aqua;
+h2{
+    color: rgb(175, 239, 218);
 }
-#Main-Class3{
-    color: #d62525;
+h3{
+    color: rgb(175, 209, 198);
 }
